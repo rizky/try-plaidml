@@ -1,0 +1,6 @@
+tensorflow
+plaidml-keras
+jupyter
+matplotlib
+pydot
+pydotplus
